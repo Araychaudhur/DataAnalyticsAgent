@@ -1,0 +1,6 @@
+openai
+psycopg2-binary
+argparse
+python-dotenv
+autogen-agentchat
+autogen-ext[openai]
